@@ -8,7 +8,7 @@
 - x AdminUser -> STI
 
 ## Features:
-- Approval Workflow 
+- x Approval Workflow 
 - SMS Sending -> link to approval or overtime input
 - x Administrate admin dashboard
 - x Block non admin and guest users
@@ -21,7 +21,4 @@
 - x Update the styles for forms
 
 ## Refactor TDDOS:
-- Refactor user association integration test in post_spec
 - Refactor posts/_form for admin user with status
-- Fix post_spec.rb:80 to use factories
-- Fix post_spec.rb:55 to have correct user reference and not require update
